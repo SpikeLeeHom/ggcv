@@ -1,0 +1,6 @@
+framework module ssrLocal {
+  umbrella header "ssrLocal.h"
+
+  export *
+  module * { export * }
+}
